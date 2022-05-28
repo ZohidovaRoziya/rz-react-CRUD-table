@@ -1,11 +1,11 @@
 export const students = [
   {
     id: 1,
-    name: "Akhror",
+    name: "Anvar",
     status: "teacher",
     age: 24,
     address: "Fergana",
-    nicname: "@Akhror",
+    nicname: "@Anvar",
     hobby: "Football",
   },
   {
